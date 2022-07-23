@@ -1,1 +1,1 @@
-# Gerador-de-Senhas--Simples-com-PySimpleGUI
+Gerador de senhas simples utilizando a biblioteca do PySimpleGUI para criação da interface.
